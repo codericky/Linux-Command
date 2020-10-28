@@ -1,9 +1,12 @@
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
+| df          |       |
+| df -a       | Text        |
+| df -h       |		    |	
+| df -k	      |             |
+| df -m       | 	    |
+| df -g       |             |
+|	      | ----------- |
 # Heading level 1
 
 1. First item
