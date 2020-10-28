@@ -1,12 +1,18 @@
 | Syntax      | Description |
 | ----------- | ----------- |
-| df          |       |
+| df          |             |
 | df -a       | Text        |
 | df -h       |		    |	
 | df -k	      |             |
 | df -m       | 	    |
 | df -g       |             |
-|	      | ----------- |
+|	      |		    |
+
+
+| df -h  | perintah |  
+|:------:|----------|
+| df -a  | perintah |  
+|        |          |   
 # Heading level 1
 
 1. First item
