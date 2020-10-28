@@ -1,3 +1,9 @@
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 # Heading level 1
 
 1. First item
@@ -10,20 +16,33 @@
 - Third item
 - Fourth item
 
-#perintah linux 
+# perintah linux 
+
 mkdir = buat folder
 cd = pindah directori 
 ls = melihat list file
 ls -R = melihat folder beserta sub direktori
 
-#melihat hardisk
+
+# melihat hardisk
+
 df  = melihat filesystem kapasitas hardisk yang di gunakan
 df -a = melihat filesytem kapasistas hardisk semua
 df -h = Tampilkan Penggunaan Ruang Disk dalam Format yang Dapat Dibaca Manusia
 df -k = tampilkan filesystem dengan format bytes
 df -m = tampilkan filesystem dengan format megabytes
 
-# hak akses linux 1
+
+# membuat kompresi linux
+
+- ektensi file 				- perintah
+1. tar
+2. zip
+3. bzip
+4. tar.gz
+
+
+# hak akses linux 
 
 Header Permission			Header penjelasan			
 
@@ -35,3 +54,13 @@ Header Permission			Header penjelasan
 6. Read + Write				membaca dan menulis
 7. Read + Write + Execute 		membaca dan menulis dan eksekusi
 
+# membuat user linux
+
+1. adduser
+2. useradd
+
+# membuat group
+
+# remote server 
+
+# 
