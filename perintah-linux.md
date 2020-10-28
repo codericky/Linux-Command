@@ -1,75 +1,11 @@
-| Syntax      | Description |
-| ----------- | ----------- |
-| df          |             |
-| df -a       | Text        |
-| df -h       |		    |	
-| df -k	      |             |
-| df -m       | 	    |
-| df -g       |             |
-|	      |		    |
-
-
-| df -h  | perintah |  
-|:------:|----------|
-| df -a  | perintah |  
-|        |          |   
-# Heading level 1
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
-# perintah linux 
-
-mkdir = buat folder
-cd = pindah directori 
-ls = melihat list file
-ls -R = melihat folder beserta sub direktori
-
-
-# melihat hardisk
-
-df  = melihat filesystem kapasitas hardisk yang di gunakan
-df -a = melihat filesytem kapasistas hardisk semua
-df -h = Tampilkan Penggunaan Ruang Disk dalam Format yang Dapat Dibaca Manusia
-df -k = tampilkan filesystem dengan format bytes
-df -m = tampilkan filesystem dengan format megabytes
-
-
-# membuat kompresi linux
-
-- ektensi file 				- perintah
-1. tar
-2. zip
-3. bzip
-4. tar.gz
-
-
-# hak akses linux 
-
-Header Permission			Header penjelasan			
-
-1. Execute				eksekusi
-2. write				menulis
-3. Write + Execute			menulis dan eksekusi
-4. Read					membaca
-5. Read + Execute			eksekusi dan membaca
-6. Read + Write				membaca dan menulis
-7. Read + Write + Execute 		membaca dan menulis dan eksekusi
-
-# membuat user linux
-
-1. adduser
-2. useradd
-
-# membuat group
-
-# remote server 
-
-# 
+|                                  Command                                 | Explanation                                                                                                                                                              |
+|:------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - hardisk                                                                | perintah tentang hardisk                                                                                                                                                 |
+| df -a                                                                    | perintah melihat filesystem hardisk yang di gunakan                                                                                                                      |
+| df -h                                                                    | perintah melihat semua filesystem hardisk                                                                                                                                |
+| df -k                                                                    | perintah melihat filesystem hardisk berdasarkan bytes                                                                                                                    |
+| df -m                                                                    | perintah melihat filesystem hardisk berdasarkan megabytes                                                                                                                |
+|                                                                          |                                                                                                                                                                          |
+| - kompresi file                                                          | perintah kompresi file di linux 1. c – untuk membuat file .tar bar 2. v – untuk deskripsi file proses kompresi 3. f – nama file                                          |
+| - tar -cvjf   data.tar.bz2 /home/belajarlinux  tar -xvf data.tar.bz2     | membuat file kompresi linux dengan ekstensi tar.bz2 /home/belajar/linux adalah mengarahkan file kompresi ke direktori belajar/linux  untuk extract file kompresi tar.bz2 |
+| - tar.gz  tar -cvzf data.tar.gz /home/belajarlinux  tar -xvf data.tar.gz | membuat file kompresi linux dengan ekstensi tar.gz /home/belajar/linux adalah mengarahkan file kompresi ke direktori belajar/linux  untuk extract file kompresi tar.gz   |
