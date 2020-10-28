@@ -25,7 +25,7 @@ df -m = tampilkan filesystem dengan format megabytes
 
 #hak akses linux
 
-Permisson k-1				penjelasan k-1				
+Header Permission			Header penjelasan			
 
 1. Execute				eksekusi
 2. write				menulis
