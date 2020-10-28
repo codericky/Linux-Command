@@ -23,7 +23,7 @@ df -h = Tampilkan Penggunaan Ruang Disk dalam Format yang Dapat Dibaca Manusia
 df -k = tampilkan filesystem dengan format bytes
 df -m = tampilkan filesystem dengan format megabytes
 
-#hak akses linux
+# hak akses linux 1
 
 Header Permission			Header penjelasan			
 
