@@ -41,8 +41,14 @@
 |                             mv data2 datake2                             |                                                                                  menganti nama folder data2 menjadi datake2                                                                                 |
 
 
+# Remote Server
 
-# hak akses linux
+|           - remote server           |   untuk meremote server mengunakan telnet dan ssh   |
+|:-----------------------------------:|:---------------------------------------------------:|
+|          telnet ip address          |                 telnet 192.168.10.2                 |
+| SSH username@ip-address or hostname | ssh admin@192.168.10.2 ssh admin@rickybrainware.com |
+
+# Hak akses linux
 
 | no | permissions           | symbol |
 |----|-----------------------|--------|
