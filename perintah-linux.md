@@ -60,3 +60,17 @@
 | 5  | Read + Execute        | r-x    |
 | 6  | Read + Write          | rw-    |
 | 7  | Read + Write +Execute | rwx    |
+
+# banner
+membuat banner di linux 
+install package sudo apt install sysvbanner
+
+banner abc
+```
+ ##    #####    ####
+  #  #   #    #  #    #
+ #    #  #####   #
+ ######  #    #  #
+ #    #  #    #  #    #
+ #    #  #####    ####
+```
