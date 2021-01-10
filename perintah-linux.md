@@ -74,3 +74,16 @@ banner abc
  #    #  #    #  #    #
  #    #  #####    ####
 ```
+
+# uptime
+melihat berapa lama kita aktif pada computer 
+
+```
+[ricky@localhost Linux-Command uptime -s
+2021-01-10 10:09:17
+
+[ricky@localhost Linux-Command$ uptime -p
+up 1 hour, 27 minutes
+
+```
+
